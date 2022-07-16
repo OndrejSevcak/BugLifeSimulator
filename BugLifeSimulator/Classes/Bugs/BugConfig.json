@@ -1,0 +1,21 @@
+{
+  "bugConfig": [
+    {
+      "type": "bug",
+      "lifePoints": 5,
+      "moveSpeed": 1
+    },
+    {
+      "type": "berryBug",
+      "lifePoints": 10,
+      "moveSpeed": 1
+    },
+    {
+      "type": "bigBug",
+      "lifePoints": 20,
+      "moveSpeed": 2
+    }
+  ]
+  
+}
+
