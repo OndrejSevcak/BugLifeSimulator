@@ -15,6 +15,10 @@ namespace BugLifeSimulator
 
             SimulationController controller = new SimulationController(field,logger);
             controller.Run();
+
+            //NOTE:
+            //Creating a DEV branch
+            //Only DEV branch will have this comment
         }
     }
 }
